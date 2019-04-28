@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/flaskapp",
+    "pro_uri": "mysql://root:@localhost/flaskapp",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "block_name": "Data Science & AI Specialist",
+    "tag_line": "Data Scientist Community",
+    "gmail-User" : "enter gmail email here",
+    "gmail-Pwd" : " enter password here ",
+    "about_text":"My Name is ----- Iam currently pursing BS(CS) Computer Science From DHA SUFFA UNIVERSITY ,I am very passionate about Data Science So I Chose Data Science as My core field of interest and work",
+    "no_of_post": 2,
+    "login_img": "log.svg",
+    "uploader_location": "C:\\Users\\Maad_Saifuddin\\Documents\\PycharmProjects\\static"
+
+  }
+}
